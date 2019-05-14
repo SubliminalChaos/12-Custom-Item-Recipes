@@ -1,0 +1,4 @@
+name: CustomRecipes
+version: ${project.version}
+main: org.waqe.pl.customrecipes.CustomRecipes
+api-version: "1.13"
